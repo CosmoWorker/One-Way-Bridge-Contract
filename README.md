@@ -1,8 +1,9 @@
-# <h1 align="center"> Forge Template </h1>
-
-**Template repository for getting started quickly with Foundry projects**
-
-![Github Actions](https://github.com/foundry-rs/forge-template/workflows/CI/badge.svg)
+# <h1 align="center"> One Way Bridge Contract</h1>
+## Contracts
+This project contains one way bridge contract and a Token locking contract for starting out.  
+- Token Locking Contract
+- One Way Bridge Contract
+- Tests
 
 ## Getting Started
 
